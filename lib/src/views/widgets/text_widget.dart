@@ -251,7 +251,7 @@ class EditTextWidgetState extends State<EditTextWidget>
                 contentPadding: EdgeInsets.zero,
                 isDense: true,
               ),
-              cursorColor: Colors.white,
+              cursorColor: Colors.green,
               buildCounter: buildEmptyCounter,
               maxLength: 1000,
               minLines: 1,
